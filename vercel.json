@@ -1,8 +1,3 @@
 {
-  "rewrites": [
-    {
-      "source": "/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs46/Course/NPTEL25CS46S34750068404384251.pdf.vercel.app",
-      "destination": "/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs46/Course/NPTEL25CS46S34750068404384251.pdf.vercel.app/index.html"
-    }
-  ]
+  "cleanUrls": true
 }
